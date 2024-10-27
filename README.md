@@ -1,9 +1,5 @@
 # BookShelf - Library Management
-## Live link: https://book-shelf-library-management.web.app/
 
-<a href="https://book-shelf-library-management.web.app/">
-  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/bookshelf%20banner.jpg?raw=true" />
-</a>
 
 ## Technology Used:
 - React, Node, Express, JWT, HTML, CSS, JS
@@ -20,6 +16,3 @@
 - Dark/Light mode also implemented
 
 
-## Admin Login credentials:
-- Email: admin@gmail.com
-- Password: 123456
